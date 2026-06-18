@@ -83,6 +83,3 @@ The database contains four tables:
 
 ---
 
-## Author
-
-Your Name
